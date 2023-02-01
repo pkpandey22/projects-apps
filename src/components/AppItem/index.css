@@ -1,0 +1,15 @@
+/* Write your CSS here */
+
+.each-app {
+  margin: 25px;
+}
+.app-logo {
+  width: 70px;
+}
+
+.btn-container {
+  padding: 25px;
+  border-radius: 10px;
+  background-color: aliceblue;
+  border-color: aliceblue;
+}
